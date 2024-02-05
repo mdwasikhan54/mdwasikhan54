@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @mdwasikhan54!
+- 👋 Hi, I'm Md Wasi Khan!
  👀 I'm interested in exploring various coding projects and contributing to open-source development.
 - 🌱 I'm currently learning new programming languages and data structures to enhance my skills.
 - 💞️ I'm looking to collaborate on exciting coding projects that align with my interests and provide opportunities for learning and growth.
