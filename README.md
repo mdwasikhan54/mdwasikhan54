@@ -1,6 +1,9 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHANljxyq9YVg/profile-displaybackgroundimage-shrink_350_1400/B56ZiK6iJuHUAk-/0/1754677258100?e=1760572800&v=beta&t=1vP0kR1fqyKQ7tUmDWypMOMFyvd9ainZdlRcKhfO51E" alt='wasi' />
+</p>
 
-<!--
+<h1 align="center">Hi 👋, I'm Md Wasi Khan</h1>
+
 **mdwasikhan54/mdwasikhan54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
