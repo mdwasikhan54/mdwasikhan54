@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHANljxyq9YVg/profile-displaybackgroundimage-shrink_350_1400/B56ZiK6iJuHUAk-/0/1754677258100?e=1760572800&v=beta&t=1vP0kR1fqyKQ7tUmDWypMOMFyvd9ainZdlRcKhfO51E" alt="wasi" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);"/>
+<img src="profile-welcome.gif" alt="Welcome to MD WASI KHAN's GitHub" width="100%">
 </p>
-
-<img src="animated-header.svg" alt="Animated Header" width="100%">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=ff813e&center=true&vCenter=true&width=850&lines=Python+Learner+%7C+Aspiring+Software+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
