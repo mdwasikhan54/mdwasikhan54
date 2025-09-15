@@ -1,0 +1,19 @@
+<svg width="100%" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#41C350;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1E90FF;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <foreignObject x="0" y="0" width="800" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="text-align: center; font-family: Arial, sans-serif; font-size: 2.5em; font-weight: bold; fill: url(#grad); text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); animation: scale 1.5s ease-in-out infinite;">
+      <h1>Hi👋, I'm MD WASI KHAN</h1>
+    </div>
+    <style>
+      @keyframes scale {
+        0%, 100% { transform: scale(1); }
+        50% { transform: scale(1.05); }
+      }
+    </style>
+  </foreignObject>
+</svg>
