@@ -165,17 +165,16 @@
       <br><sub><b>WhatsApp</b></sub>
     </td>
     <td width="80">
-      <a href="mailto:mdwasikhan54@gmail.com" target="_blank">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdwasikhan54@gmail.com" target="_blank">
         <img src="https://www.google.com/gmail/about/static/images/logo-gmail.png" alt="Gmail" width="40" height="40"/>
       </a>
       <br><sub><b>Gmail</b></sub>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 📅 Last Updated
 <div>
-<em style="font-family: 'Courier New', monospace; font-size: 0.5em; color: #00BFFF; font-style: italic;">September 16, 2025, 03:45 AM +06</em>
+<em style="font-family: 'Courier New', monospace; font-size: 0.5em; color: #00BFFF; font-style: italic;">September 16, 2025, 04:00 AM +06</em>
 </div>
