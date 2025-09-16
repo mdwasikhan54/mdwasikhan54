@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7cd583&center=true&vCenter=true&width=850&lines=Python+Learner+%7C+Aspiring+Software+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=28cd32&center=true&vCenter=true&width=850&lines=Python+Learner+%7C+Aspiring+Software+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -124,7 +124,7 @@
 
 ### 🚀 Projects Showcase
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Angelos&size=16&pause=1000&color=FFFF00&center=true&vCenter=true&width=400&lines=Projects+will+be+showcased+soon+-+stay+tuned!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Angelos&size=14&pause=1000&color=ff813e&center=true&vCenter=true&width=400&lines=Projects+will+be+showcased+soon+-+stay+tuned!" alt="Typing Animation" />
 </div>
 
 ---
