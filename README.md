@@ -223,7 +223,7 @@
 
 ### 🚀 Projects Showcase
 
-#### 🎓 [Student Management API](https://github.com/mdwasikhan54/student-management-api)
+#### 🎓 [Student Management API](https://github.com/mdwasikhan54/Student-Management-System-API)
 > *A high-performance RESTful API backend with secure authentication.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -240,7 +240,7 @@ A production-ready backend system designed to manage student records securely. B
 
 **Tech Stack:** Python 3.12+, FastAPI, Uvicorn, Pydantic, Passlib (Bcrypt)
 
-[🔗 View on GitHub](https://github.com/mdwasikhan54/student-management-api)
+[🔗 View on GitHub](https://github.com/mdwasikhan54/Student-Management-System-API)
 
 <br>
 
