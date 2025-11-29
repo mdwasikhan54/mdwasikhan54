@@ -223,6 +223,27 @@
 
 ### 🚀 Projects Showcase
 
+#### 🎓 [Student Management API](https://github.com/mdwasikhan54/student-management-api)
+> *A high-performance RESTful API backend with secure authentication.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Security](https://img.shields.io/badge/Security-JWT_Auth-red?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+A production-ready backend system designed to manage student records securely. Built with FastAPI, it demonstrates modern API standards including strict validation, error handling, and a custom file-based database engine.
+
+**Key Features:**
+- **Secure Auth System**: User registration with duplicate checks and robust Bcrypt password hashing.
+- **Smart Data Retrieval**: Implements efficient pagination, case-insensitive search, and filtering logic.
+- **Robust Validation**: Utilises Pydantic V2 for strict data type enforcement and centralized error management.
+- **Custom Persistence**: Lightweight, server-less JSON database architecture for high portability.
+
+**Tech Stack:** Python 3.12+, FastAPI, Uvicorn, Pydantic, Passlib (Bcrypt)
+
+[🔗 View on GitHub](https://github.com/mdwasikhan54/student-management-api)
+
+<br>
+
 #### 🏥 [Clinic Management System](https://github.com/mdwasikhan54/Clinic-Management-System)
 > *A robust CLI-based system managing patient records and inventory without SQL.*
 
@@ -240,28 +261,6 @@ A CLI-based Clinic Management System built with Python using text files as a dat
 **Tech Stack:** Python 3, Flat file database, Libraries: `sys`, `os`, `datetime`, `random`, `string`, `getpass`
 
 [🔗 View on GitHub](https://github.com/mdwasikhan54/Clinic-Management-System) | [📹 Demo Video](https://www.youtube.com/watch?v=F59Zkkpb-bM)
-
-<br>
-
-#### 👨‍💻 [Personal Portfolio Website](https://github.com/mdwasikhan54/mdwasikhan-portfolio)
-> *A modern, responsive portfolio to showcase skills and projects.*
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive_Design-28cd32?style=for-the-badge&logo=mobile&logoColor=white)
-
-A fully responsive personal portfolio website designed to professionally showcase skills, projects, and blogs.
-
-**Key Features:**
-- **Dynamic Theming**: Built-in Dark/Light mode toggle with local storage persistence for user preference.
-- **Responsive Layout**: Optimised for seamless viewing across all devices (Mobile, Tablet, Desktop) using CSS Grid & Flexbox.
-- **Comprehensive Sections**: Includes Home, About, Projects, Services, and a Blog section for sharing technical insights.
-- **Interactive Elements**: Custom mobile navigation, smooth scrolling animations, and glassmorphism effects.
-
-**Tech Stack:** HTML5, CSS3 (Variables, Flexbox, Grid), Vanilla JavaScript, FontAwesome
-
-[🔗 View on GitHub](https://github.com/mdwasikhan54/mdwasikhan-portfolio) | [🌐 Live Demo](https://mdwasikhan-portfolio.netlify.app/)
 
 <br>
 
