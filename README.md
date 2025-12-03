@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=220&section=header&text=MD%20WASI%20KHAN&fontSize=50&fontColor=ffffff&font=Audiowide&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=60&descSize=20&descColor=e0e0e0&v=white_text_final" width="100%" alt="White Text Header" /></p>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=28cd32&center=true&vCenter=true&width=950&lines=Crafting+Logic+with+Python+%F0%9F%90%8D;Exploring+Backend+Engineering+%E2%9A%99%EF%B8%8F;Code.+Debug.+Optimize.+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=28cd32&center=true&vCenter=true&width=1050&lines=Crafting+Logic+with+Python+%F0%9F%90%8D;Exploring+Backend+Engineering+%E2%9A%99%EF%B8%8F;Code.+Debug.+Optimize.+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <p align="center">
