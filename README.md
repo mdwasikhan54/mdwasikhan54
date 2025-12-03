@@ -1,9 +1,7 @@
 <p align="center">
-<img src="profile-welcome.gif" alt="Welcome to MD WASI KHAN's GitHub" width="100%">
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=220&section=header&text=MD%20WASI%20KHAN&fontSize=50&fontColor=ffffff&font=Audiowide&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=60&descSize=20&descColor=e0e0e0&v=white_text_final" width="100%" alt="White Text Header" /></p>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=28cd32&center=true&vCenter=true&width=850&lines=Crafting+Logic+with+Python+%F0%9F%90%8D;Exploring+Backend+Engineering+%E2%9A%99%EF%B8%8F;Code.+Debug.+Optimize.+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=28cd32&center=true&vCenter=true&width=950&lines=Crafting+Logic+with+Python+%F0%9F%90%8D;Exploring+Backend+Engineering+%E2%9A%99%EF%B8%8F;Code.+Debug.+Optimize.+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,8 +9,8 @@
 </p>
 
 ---
+<h1 <align="center">🧑‍💻 About Me</h1>
 
-### 🧑‍💻 About Me
 - 💬 Expertise: **Python, C++, Linux Internals & Backend Systems**
 -  🎨 Frontend: **Building responsive UIs using HTML, CSS, Bootstrap & JS**
 - 🔭 Focus: **Software Architecture & RESTful API Design**
@@ -24,68 +22,84 @@
 
 ---
 
-### 🎖️ Certifications & Badges
-
+<h1 <align="center">🏆 Problem Solving Achievements</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=19&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=450&lines=5-Star+Gold+Badge+Holder+%F0%9F%A5%87;Python+%26+C%2FC%2B%2B+Specialist+%F0%9F%9B%A0%EF%B8%8F;HackerRank+Certified+%E2%9C%85" alt="Certifications Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=22&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=5-Star+Gold+Badge+Holder+%F0%9F%A5%87;Python+%26+C%2FC%2B%2B+Specialist+%F0%9F%9B%A0%EF%B8%8F;HackerRank+Certified+%E2%9C%85" alt="Certifications Animation" />
 </div>
+<br>
 
-<table align="center" border="0">
+<table align="center" border="0" cellspacing="15" cellpadding="10" width="100%">
   <tr>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="55" alt="HackerRank Logo">
+    <td align="center" width="33%">
+      <a href="https://www.hackerrank.com/profile/wasi_khan">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="80" alt="Python Logo">
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/5_STARS-GOLD-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=FFD700" height="30" alt="Gold Badge">
       <br>
-      <sub><b>HackerRank</b></sub>
+      <h4 style="margin-top: 5px; color: #FFD700;">Python</h4>
     </td>
-    <td align="left" width="400">
-      <strong>🥇 C Programming (Gold Badge)</strong>
+    <td align="center" width="33%">
+      <a href="https://www.hackerrank.com/profile/wasi_khan">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="80" alt="CPP Logo">
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/5_STARS-GOLD-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=FFD700" height="30" alt="Gold Badge">
       <br>
-      <span style="color: #808080;">Earned Gold Badge for solving challenges & mastering C logic.</span>
+      <h4 style="margin-top: 5px; color: #FFD700;">C++ (CPP)</h4>
     </td>
-    <td align="center" width="150">
-      <a href="https://www.hackerrank.com/profile/wasi_khan" target="_blank">
-        <img src="https://img.shields.io/badge/Verify-Click_Here-28cd32?style=for-the-badge&logo=hackerrank&logoColor=white" height="28">
+    <td align="center" width="33%">
+      <a href="https://www.hackerrank.com/profile/wasi_khan">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="80" alt="C Logo">
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/5_STARS-GOLD-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=FFD700" height="30" alt="Gold Badge">
+      <br>
+      <h4 style="margin-top: 5px; color: #FFD700;">C Language</h4>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 style="color: #2ea44f; border-bottom: 2px solid #2ea44f; display: inline-block;">✅ VERIFIED CERTIFICATIONS</h2>
+<br>
+
+<table align="center" border="0" cellspacing="15" cellpadding="10" width="100%" style="border: none;">
+  <tr>
+    <td width="15%" align="center" style="border: none;">
+       <img src="https://cdn-icons-png.flaticon.com/512/11689/11689154.png" width="85" alt="Problem Solving Icon">
+    </td>
+    <td width="85%" align="left" style="border: none;">
+      <h3 style="margin-bottom: 5px;">🧩 Problem Solving (Basic)</h3>
+      <p><i><b>Status:</b> <span style="color: #2ea44f;">Verified & Earned</span> | <b>Platform:</b> HackerRank</i></p>
+      <p>Demonstrated strong capability in logical reasoning, algorithms, and data structures.</p>
+      <a href="https://www.hackerrank.com/certificates/865abc9d16da" target="_blank">
+        <img src="https://img.shields.io/badge/VIEW_CREDENTIAL-2ea44f?style=for-the-badge&logo=hackerrank&logoColor=white" height="30">
       </a>
     </td>
   </tr>
+  
+  <tr><td colspan="2" style="border-bottom: 1px solid #333;"></td></tr>
+
   <tr>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="55" alt="HackerRank Logo">
-      <br>
-      <sub><b>HackerRank</b></sub>
+    <td width="15%" align="center" style="border: none;">
+       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="80" alt="Python Icon">
     </td>
-    <td align="left" width="400">
-      <strong>🥇 C++ Programming (Gold Badge)</strong>
-      <br>
-      <span style="color: #808080;">Achieved 5-star Gold status in Data Structures & Algorithms.</span>
-    </td>
-    <td align="center" width="150">
-      <a href="https://www.hackerrank.com/profile/wasi_khan" target="_blank">
-        <img src="https://img.shields.io/badge/Verify-Click_Here-28cd32?style=for-the-badge&logo=hackerrank&logoColor=white" height="28">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="55" alt="HackerRank Logo">
-      <br>
-      <sub><b>HackerRank</b></sub>
-    </td>
-    <td align="left" width="400">
-      <strong>📜 Python (Basic) Certificate</strong>
-      <br>
-      <span style="color: #808080;">Certified for demonstrating strong command over Python syntax & basics.</span>
-    </td>
-    <td align="center" width="150">
+    <td width="85%" align="left" style="border: none;">
+      <h3 style="margin-bottom: 5px;">🐍 Python (Basic)</h3>
+      <p><i><b>Status:</b> <span style="color: #2ea44f;">Verified & Earned</span> | <b>Platform:</b> HackerRank</i></p>
+      <p>Validated proficiency in Python syntax, data types, collections, and modular programming.</p>
       <a href="https://www.hackerrank.com/certificates/c1123843b16b" target="_blank">
-        <img src="https://img.shields.io/badge/Verify-Click_Here-28cd32?style=for-the-badge&logo=python&logoColor=white" height="28">
+        <img src="https://img.shields.io/badge/VIEW_CREDENTIAL-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30">
       </a>
     </td>
   </tr>
 </table>
 
 ---
-### 🛠 Languages and Tools
+
+<h1 <align="center">🛠 Languages and Tools</h1>
 
 #### Programming Languages
 <table>
@@ -194,7 +208,8 @@
 </table>
 
 ---
-### 📊 GitHub Stats
+<h1 <align="center">📊 GitHub Stats</h1>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdwasikhan54&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
@@ -208,20 +223,22 @@
 </p>
 
 ---
-### 🏆 GitHub Trophies
+<h1 <align="center">🏆 GitHub Trophies
+</h1>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mdwasikhan54&theme=git-dimmed&row=1&column=7" alt="trophies" />
 </p>
 
 ---
-### 📈 Contribution Activity
+<h1 <align="center"> 📈 Contribution Activity</h1>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdwasikhan54&theme=react-dark" alt="activity graph" />
 </p>
 
 ---
 
-### 🚀 Projects Showcase
+<h1 <align="center">🚀 Projects Showcase</h1>
 
 #### 🎓 [Student Management API](https://github.com/mdwasikhan54/Student-Management-System-API)
 > *A high-performance RESTful API backend with secure authentication.*
@@ -269,7 +286,7 @@ A CLI-based Clinic Management System built with Python using text files as a dat
 </div>
 
 ---
-### 📫 Connect with Me
+<h1 <align="center">📫 Connect with Me</h1>
 <table align="center">
   <tr align="center">
     <td width="80">
@@ -309,7 +326,7 @@ A CLI-based Clinic Management System built with Python using text files as a dat
 
 ### 📅 Last Updated
 <div>
-<em style="font-family: 'Courier New', monospace; font-size: 0.9em; color: #00BFFF; font-style: italic;">November 26, 2025, 06:30 PM +06</em>
+<em style="font-family: 'Courier New', monospace; font-size: 0.9em; color: #00BFFF; font-style: italic;">December 03, 2025, 06:30 PM +06</em>
 </div>
 
 ---
