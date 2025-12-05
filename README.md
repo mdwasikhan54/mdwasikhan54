@@ -11,13 +11,13 @@
 ---
 <h1 <align="center">🧑‍💻 About Me</h1>
 
-- 💬 Expertise: **Python, C++, Linux Internals & Backend Systems**
--  🎨 Frontend: **Building responsive UIs using HTML, CSS, Bootstrap & JS**
+- 💬 Expertise: **Python, C/C++, Linux & Backend**
 - 🔭 Focus: **Software Architecture & RESTful API Design**
 - 🌍 Connect: **Open for collaborative development & tech networking**
 - 🚀 Core Values: **Clean Code, Logic Optimization & Data Integrity**
 - 🐧 Daily Driver: **Linux (Ubuntu) for development & deployment**
 - 📚 Learning: **Advanced FastAPI patterns & PostgreSQL Tuning**
+-  🎨 Frontend: **Building responsive UIs using HTML, CSS, Bootstrap & JS**
 - ⚡ Fun fact: *Turning coffee into bug-free code*
 
 ---
