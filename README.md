@@ -261,23 +261,23 @@ A production-ready backend system designed to manage student records securely. B
 
 <br>
 
-#### 🏥 [Clinic Management System](https://github.com/mdwasikhan54/Clinic-Management-System)
-> *A robust CLI-based system managing patient records and inventory without SQL.*
+#### 🏥 [Clinic Management System v2.0](https://github.com/mdwasikhan54/Clinic-Management-System)
+> *A professional desktop-based system managing patient records and inventory with a modern GUI.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![File I/O](https://img.shields.io/badge/File_System-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-Console-black?style=for-the-badge)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-3483fa?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database-Text_File-orange?style=for-the-badge)
 
-A CLI-based Clinic Management System built with Python using text files as a database. It manages patient queues, digital prescriptions, and pharmacy inventory.
+A modern Python GUI application (upgraded from CLI) that provides a comprehensive solution for clinic operations using a modular architecture and flat-file database.
 
 **Key Features:**
-- **Manager Module**: Serial management, queue control, inventory CRUD, sales reporting (daily logs, item-wise summaries, date filtering).
-- **Doctor Module**: Live queue, digital prescriptions (auto-fetch patient info, dosage, duration, clinical tests), smart search by phone/Smart ID, prescription history.
-- **Core Features**: Role-based security with password masking, Smart ID generation (e.g., `J0018`), persistent data storage via `.txt` files.
+- **Manager Module**: Graphical serial management, interactive queue control, full inventory CRUD with edit/delete support, and advanced sales reporting (auto-loads today's data).
+- **Doctor Module**: Digital prescription pad with auto-fetch vitals, medicine/test builder, and a dual-pane medical history viewer.
+- **Core Features**: Role-based secure login, automated Smart ID generation (e.g., `J0018`), and persistent storage via structured `.txt` files.
 
-**Tech Stack:** Python 3, Flat file database, Libraries: `sys`, `os`, `datetime`, `random`, `string`, `getpass`
+**Tech Stack:** Python 3.x, Tkinter & TTK (GUI), File-based NoSQL storage.
 
-[🔗 View on GitHub](https://github.com/mdwasikhan54/Clinic-Management-System) | [📹 Demo Video](https://www.youtube.com/watch?v=F59Zkkpb-bM)
+[🔗 View on GitHub](https://github.com/mdwasikhan54/Clinic-Management-System)
 
 <br>
 
