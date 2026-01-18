@@ -22,7 +22,7 @@
 
 ---
 
-<h1 <align="center">🏆 Problem Solving Achievements</h1>
+<h1 <align="center">🏆 My Achievements</h1>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=22&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=5-Star+Gold+Badge+Holder+%F0%9F%A5%87;Python+%26+C%2FC%2B%2B+Specialist+%F0%9F%9B%A0%EF%B8%8F;HackerRank+Certified+%E2%9C%85" alt="Certifications Animation" />
 </div>
@@ -95,132 +95,207 @@
       </a>
     </td>
   </tr>
+    <tr><td colspan="2" style="border-bottom: 1px solid #333;"></td></tr>
+  <tr>
+    <td width="15%" align="center" style="border: none;">
+      <img src="https://www.bssnews.net/assets/news_photos/2025/08/06/image-299398-1754492609.jpg" width="80" alt="NSDA Certificate Logo">
+    </td>
+    <td width="85%" align="left" style="border: none;">
+      <h3 style="margin-bottom: 5px;">🏅 National Skills Certificate — Web Design & Development (Level 3)</h3>
+      <p><i><b>Status:</b> <span style="color: #2ea44f;">Issued</span> | <b>Authority:</b> NSDA (Govt. of Bangladesh)</i></p>
+      <p>Certified under BNQF framework after completing 360 hours of professional training.</p>
+      <a href="https://drive.google.com/file/d/1hMyUFLWJRd4zN__8xh0a-g0tEsNVEkFD/view" target="_blank">
+        <img src="https://img.shields.io/badge/VIEW_CERTIFICATE-006a4e?style=for-the-badge&logoColor=white" height="30">
+      </a>
+    </td>
+  </tr>
+</table>
 </table>
 
 ---
-
 <h1 <align="center">🛠 Languages and Tools</h1>
 
-#### Programming Languages
+<!-- =======================
+     Programming Languages
+======================== -->
+<h3>Programming Languages</h3>
+
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="50" height="50"/><br><sub><b>C</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="46" /><br>
+      <sub><b>Python</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="50" height="50"/><br><sub><b>C++</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="46" /><br>
+      <sub><b>C++</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50" height="50"/><br><sub><b>Python</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="46" /><br>
+      <sub><b>C</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="50" height="50"/><br><sub><b>JavaScript</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="46" /><br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="46" /><br>
+      <sub><b>PHP</b></sub>
     </td>
   </tr>
 </table>
 
-#### Web & Frameworks
+<br>
+
+<!-- =======================
+     Web & Frameworks
+======================== -->
+<h3>Web & Frameworks</h3>
+
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="50" height="50"/><br><sub><b>HTML</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" width="46" /><br>
+      <sub><b>FastAPI</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="50" height="50"/><br><sub><b>CSS</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png" width="46" /><br>
+      <sub><b>RESTful API</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="50" height="50"/><br><sub><b>Bootstrap</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn-icons-png.flaticon.com/512/228/228383.png" width="46" /><br>
+      <sub><b>Pydantic</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="50" height="50"/><br><sub><b>Tailwind CSS</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn-icons-png.flaticon.com/512/1680/1680173.png" width="46" /><br>
+      <sub><b>JWT</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" width="50" height="50"/><br><sub><b>FastAPI</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="46" /><br>
+      <sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="46" /><br>
+      <sub><b>CSS</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="46" /><br>
+      <sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="46" /><br>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" width="46" /><br>
+      <sub><b>WordPress</b></sub>
     </td>
   </tr>
 </table>
 
-#### Databases & DevOps
+<br>
+
+<!-- =======================
+     Databases & DevOps
+======================== -->
+<h3>Databases & DevOps</h3>
+
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="50" height="50"/><br><sub><b>PostgreSQL</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="46" /><br>
+      <sub><b>PostgreSQL</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="50" height="50"/><br><sub><b>Linux</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="46" /><br>
+      <sub><b>MySQL</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="50" height="50"/><br><sub><b>Git</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="46" /><br>
+      <sub><b>Linux</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="50" height="50"/><br><sub><b>GitHub</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="46" /><br>
+      <sub><b>Git</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitLab-Dark.svg" width="50" height="50"/><br><sub><b>GitLab</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="46" /><br>
+      <sub><b>GitHub</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="50" height="50"/><br><sub><b>Docker</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitLab-Dark.svg" width="46" /><br>
+      <sub><b>GitLab</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="46" /><br>
+      <sub><b>Docker</b></sub>
     </td>
   </tr>
 </table>
 
-#### Testing & Editors
+<br>
+
+<!-- =======================
+     Testing & Editors
+======================== -->
+<h3>Testing & Editors</h3>
+
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="50" height="50"/><br><sub><b>Postman</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="46" /><br>
+      <sub><b>Postman</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="50" height="50"/><br><sub><b>VS Code</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="46" /><br>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://avatars.githubusercontent.com/u/48722593?v=4" width="46" /><br>
+      <sub><b>Poetry</b></sub>
     </td>
   </tr>
 </table>
 
-#### Design & Productivity
+<br>
+
+<!-- =======================
+     Design & Productivity
+======================== -->
+<h3>Design & Productivity</h3>
+
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="50" height="50"/><br><sub><b>Photoshop</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="46" /><br>
+      <sub><b>Photoshop</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Illustrator.svg" width="50" height="50"/><br><sub><b>Illustrator</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Illustrator.svg" width="46" /><br>
+      <sub><b>Illustrator</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.prod.website-files.com/6198a2e43048192ebafec2cc/6240d386a7e83e34a73eb4d9_61fa73ce74236cf40854f1ce_canva-removebg-preview201.png" width="50" height="50"/>
-      <br><sub><b>Canva</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.prod.website-files.com/6198a2e43048192ebafec2cc/6240d386a7e83e34a73eb4d9_61fa73ce74236cf40854f1ce_canva-removebg-preview201.png" width="46" /><br>
+      <sub><b>Canva</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://static.vecteezy.com/system/resources/previews/013/948/546/non_2x/capcut-logo-on-transparent-white-background-free-vector.jpg" width="50" height="50"
-      ><br><sub><b>CapCut</b></sub>
+    <td align="center" width="110">
+      <img src="https://static.vecteezy.com/system/resources/previews/013/948/546/non_2x/capcut-logo-on-transparent-white-background-free-vector.jpg" width="46" /><br>
+      <sub><b>CapCut</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/ms-word.png" width="50" height="50"/><br><sub><b>MS Word</b></sub>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/000000/ms-word.png" width="46" /><br>
+      <sub><b>MS Word</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="50" height="50"/><br><sub><b>MS Excel</b></sub>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="46" /><br>
+      <sub><b>MS Excel</b></sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/ms-powerpoint.png" width="50" height="50"/><br><sub><b>MS PowerPoint</b></sub>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/000000/ms-powerpoint.png" width="46" /><br>
+      <sub><b>MS PowerPoint</b></sub>
     </td>
   </tr>
 </table>
-
----
-<h1 <align="center">📊 GitHub Stats</h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdwasikhan54&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwasikhan54&show_icons=true&layout=compact&theme=radical" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdwasikhan54&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 <h1 <align="center">🏆 GitHub Trophies
@@ -230,54 +305,73 @@
 </p>
 
 ---
-<h1 <align="center"> 📈 Contribution Activity</h1>
+<h1 <align="center"> 📈 Github Activity</h1>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdwasikhan54&theme=react-dark" alt="activity graph" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=mdwasikhan54&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </p>
 
 ---
-
 <h1 <align="center">🚀 Projects Showcase</h1>
 
-#### 🎓 [Student Management API](https://github.com/mdwasikhan54/Student-Management-System-API)
-> *A high-performance RESTful API backend with secure authentication.*
+#### 🤖 [AI Chatbot Backend (RAG System)](https://github.com/mdwasikhan54/AI-Chatbot-Backend)
+> *An AI-powered backend system for accurate, knowledge-grounded responses.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Security](https://img.shields.io/badge/Security-JWT_Auth-red?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![AI](https://img.shields.io/badge/AI-RAG-blueviolet?style=for-the-badge)
 
-A production-ready backend system designed to manage student records securely. Built with FastAPI, it demonstrates modern API standards including strict validation, error handling, and a custom file-based database engine.
+A backend service designed to generate reliable AI responses using retrieval-based workflows and structured data sources.
 
 **Key Features:**
-- **Secure Auth System**: User registration with duplicate checks and robust Bcrypt password hashing.
-- **Smart Data Retrieval**: Implements efficient pagination, case-insensitive search, and filtering logic.
-- **Robust Validation**: Utilises Pydantic V2 for strict data type enforcement and centralized error management.
-- **Custom Persistence**: Lightweight, server-less JSON database architecture for high portability.
+- Context-aware document retrieval  
+- Secure authentication and request validation  
+- Scalable backend architecture  
 
-**Tech Stack:** Python 3.12+, FastAPI, Uvicorn, Pydantic, Passlib (Bcrypt)
+**Tech Stack:** Python, FastAPI, RAG, JWT, PostgreSQL
+
+[🔗 View on GitHub](https://github.com/mdwasikhan54/AI-Chatbot-Backend)
+
+<br>
+
+#### 🎓 [Student Management API](https://github.com/mdwasikhan54/Student-Management-System-API)
+> *A secure RESTful API for managing student data and authentication.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Security](https://img.shields.io/badge/Security-JWT_Auth-red?style=for-the-badge)
+
+A backend system built with clean validation and modular logic to manage student records efficiently.
+
+**Key Features:**
+- Secure user authentication  
+- Structured CRUD operations  
+- Centralized validation and error handling  
+
+**Tech Stack:** Python, FastAPI, Pydantic, JWT
 
 [🔗 View on GitHub](https://github.com/mdwasikhan54/Student-Management-System-API)
 
 <br>
 
-#### 🏥 [Clinic Management System v2.0](https://github.com/mdwasikhan54/Clinic-Management-System)
-> *A professional desktop-based system managing patient records and inventory with a modern GUI.*
+#### 🏥 [Clinic Management System (GUI App)](https://github.com/mdwasikhan54/Clinic-Management-System)
+> *A desktop-based clinic management system with a modern graphical interface.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-3483fa?style=for-the-badge)
-![Database](https://img.shields.io/badge/Database-Text_File-orange?style=for-the-badge)
+![Storage](https://img.shields.io/badge/Storage-Local_Files-orange?style=for-the-badge)
 
-A modern Python GUI application (upgraded from CLI) that provides a comprehensive solution for clinic operations using a modular architecture and flat-file database.
+A Python GUI application designed to handle daily clinic operations through structured workflows and persistent local storage.
 
 **Key Features:**
-- **Manager Module**: Graphical serial management, interactive queue control, full inventory CRUD with edit/delete support, and advanced sales reporting (auto-loads today's data).
-- **Doctor Module**: Digital prescription pad with auto-fetch vitals, medicine/test builder, and a dual-pane medical history viewer.
-- **Core Features**: Role-based secure login, automated Smart ID generation (e.g., `J0018`), and persistent storage via structured `.txt` files.
+- Patient and appointment handling  
+- Prescription and inventory management  
+- Role-based login system  
 
-**Tech Stack:** Python 3.x, Tkinter & TTK (GUI), File-based NoSQL storage.
+**Tech Stack:** Python, Tkinter, File-based Storage
 
 [🔗 View on GitHub](https://github.com/mdwasikhan54/Clinic-Management-System)
+
 
 <br>
 
@@ -326,7 +420,7 @@ A modern Python GUI application (upgraded from CLI) that provides a comprehensiv
 
 ### 📅 Last Updated
 <div>
-<em style="font-family: 'Courier New', monospace; font-size: 0.9em; color: #00BFFF; font-style: italic;">December 03, 2025, 06:30 PM +06</em>
+<em style="font-family: 'Courier New', monospace; font-size: 0.9em; color: #00BFFF; font-style: italic;">January 18, 2026, 11:30 PM +06</em>
 </div>
 
 ---
