@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=220&section=header&text=MD%20WASI%20KHAN&fontSize=50&fontColor=ffffff&font=Audiowide&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=60&descSize=20&descColor=e0e0e0&v=white_text_final" width="100%" alt="White Text Header" /></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=220&section=header&text=MD%20WASI%20KHAN&fontSize=50&fontColor=ffffff&font=Audiowide&animation=fadeIn&fontAlignY=38&desc=Technology-Focused%20Professional&descAlignY=60&descSize=20&descColor=e0e0e0&v=white_text_final" width="100%" alt="White Text Header" /></p>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=28cd32&center=true&vCenter=true&width=1050&lines=Crafting+Logic+with+Python+%F0%9F%90%8D;Exploring+Backend+Engineering+%E2%9A%99%EF%B8%8F;Code.+Debug.+Optimize.+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=28cd32&center=true&vCenter=true&width=1050&lines=Technology-Focused%20Professional;Building%20Practical%20Digital%20Solutions;Software%20%C2%B7%20AI%20%C2%B7%20Integrations%20%C2%B7%20Automation" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -9,22 +9,22 @@
 </p>
 
 ---
-<h1 <align="center">🧑‍💻 About Me</h1>
+<h1 align="center">🧑‍💻 About Me</h1>
 
-- 💬 Expertise: **Python, C/C++, Linux & Backend**
-- 🔭 Focus: **Software Architecture & RESTful API Design**
-- 🌍 Connect: **Open for collaborative development & tech networking**
-- 🚀 Core Values: **Clean Code, Logic Optimization & Data Integrity**
-- 🐧 Daily Driver: **Linux (Ubuntu) for development & deployment**
-- 📚 Learning: **Advanced FastAPI patterns & PostgreSQL Tuning**
--  🎨 Frontend: **Building responsive UIs using HTML, CSS, Bootstrap & JS**
-- ⚡ Fun fact: *Turning coffee into bug-free code*
+- 💬 Identity: **Technology-Focused Professional | Full-Stack & Systems Engineering**
+- 🔭 Focus: **Practical Digital Solutions, AI Integration, System Integration & Automation**
+- 🌍 Connect: **Open to collaboration, professional opportunities & technical discussions**
+- 🚀 Approach: **Structured Thinking, Problem-Solving & Continuous Learning**
+- 🐧 Environment: **Linux, Git-based workflows & modern development tools**
+- 📚 Exploring: **Scalable Systems, Applied AI, Cloud & Emerging Technologies**
+- 🎨 Creative Side: **Interactive Web Experiences, UI Engineering & Digital Experiments**
+- ⚡ Portfolio: **[Explore my live digital workspace](https://mdwasikhan-portfolio.netlify.app/)**
 
 ---
 
-<h1 <align="center">🏆 My Achievements</h1>
+<h1 align="center">🏆 My Achievements</h1>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=22&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=5-Star+Gold+Badge+Holder+%F0%9F%A5%87;Python+%26+C%2FC%2B%2B+Specialist+%F0%9F%9B%A0%EF%B8%8F;HackerRank+Certified+%E2%9C%85" alt="Certifications Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=22&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=5-Star%20HackerRank%20Gold%20Badges;Python%20%C2%B7%20C%20%C2%B7%20C%2B%2B;Verified%20Technical%20Certifications" alt="Certifications Animation" />
 </div>
 <br>
 
@@ -110,10 +110,9 @@
     </td>
   </tr>
 </table>
-</table>
 
 ---
-<h1 <align="center">🛠 Languages and Tools</h1>
+<h1 align="center">🛠 Languages and Tools</h1>
 
 <!-- =======================
      Programming Languages
@@ -139,6 +138,10 @@
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="46" /><br>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="46" /><br>
       <sub><b>PHP</b></sub>
     </td>
@@ -150,7 +153,7 @@
 <!-- =======================
      Web & Frameworks
 ======================== -->
-<h3>Web & Frameworks</h3>
+<h3>Web, Backend & Frameworks</h3>
 
 <table>
   <tr>
@@ -190,6 +193,22 @@
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" width="46" /><br>
       <sub><b>WordPress</b></sub>
     </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="46" /><br>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="46" /><br>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="46" /><br>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cloudflare-Dark.svg" width="46" /><br>
+      <sub><b>Cloudflare</b></sub>
+    </td>
   </tr>
 </table>
 
@@ -198,7 +217,7 @@
 <!-- =======================
      Databases & DevOps
 ======================== -->
-<h3>Databases & DevOps</h3>
+<h3>Databases, Cloud & DevOps</h3>
 
 <table>
   <tr>
@@ -229,6 +248,18 @@
     <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="46" /><br>
       <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" width="46" /><br>
+      <sub><b>SQLite / D1</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cloudflare-Dark.svg" width="46" /><br>
+      <sub><b>Cloudflare Workers</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="46" /><br>
+      <sub><b>Vercel</b></sub>
     </td>
   </tr>
 </table>
@@ -298,21 +329,61 @@
 </table>
 
 ---
-<h1 <align="center">🏆 GitHub Trophies
+<h1 align="center">🏆 GitHub Trophies
 </h1>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mdwasikhan54&theme=git-dimmed&row=1&column=7" alt="trophies" />
 </p>
 
 ---
-<h1 <align="center"> 📈 Github Activity</h1>
+<h1 align="center"> 📈 Github Activity</h1>
 
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=mdwasikhan54&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </p>
 
 ---
-<h1 <align="center">🚀 Projects Showcase</h1>
+<h1 align="center">🚀 Projects Showcase</h1>
+
+#### 🏥 [MediBook — Appointment & Healthcare Booking](https://github.com/mdwasikhan54/MediBook-App)
+> *A healthcare appointment booking application with serverless API architecture.*
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![API](https://img.shields.io/badge/API-Hono-0E7490?style=for-the-badge)
+
+An application exploring appointment workflows, modern TypeScript backend development, and Cloudflare's serverless platform.
+
+**Key Features:**
+- Healthcare-oriented booking workflows
+- Structured API endpoints and data handling
+- Cloudflare Workers, Hono and D1 integration
+
+**Tech Stack:** TypeScript, Hono, Cloudflare Workers, D1
+
+[🔗 View on GitHub](https://github.com/mdwasikhan54/MediBook-App)
+
+<br>
+
+#### 🖥️ [Personal Portfolio & WasiOS — Public Showcase](https://github.com/mdwasikhan54/mdwasikhan-portfolio-showcase)
+> *An editorial portfolio and interactive desktop-inspired digital experience.*
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Web](https://img.shields.io/badge/Web-Interactive_UI-0A66C2?style=for-the-badge)
+![Netlify](https://img.shields.io/badge/Netlify-Live_Site-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+A personalized digital workspace featuring draggable widgets, interactive content, portfolio sections and a separate WasiOS lab experience.
+
+**Key Features:**
+- Desktop-inspired interface with interactive widgets and dock
+- WasiOS browser desktop, terminal and retro games
+- Professional experience, technical toolbox and project explorations
+
+**Tech Stack:** TypeScript, HTML, CSS, Web Audio API, Netlify
+
+[🔗 Public Showcase](https://github.com/mdwasikhan54/mdwasikhan-portfolio-showcase) · [🌐 Live Portfolio](https://mdwasikhan-portfolio.netlify.app/)
+
+<br>
 
 #### 🤖 [AI Chatbot Backend (RAG System)](https://github.com/mdwasikhan54/AI-Chatbot-Backend)
 > *An AI-powered backend system for accurate, knowledge-grounded responses.*
@@ -376,11 +447,11 @@ A Python GUI application designed to handle daily clinic operations through stru
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Angelos&size=18&duration=2000&pause=1000&color=ff813e&center=true&vCenter=true&width=500&lines=Compiling+New+Ideas...+%E2%9A%99%EF%B8%8F;Open+for+Collaboration+%F0%9F%A4%9D;The+Best+is+Yet+to+Come...+%E2%9C%A8" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Angelos&size=18&duration=2000&pause=1000&color=ff813e&center=true&vCenter=true&width=500&lines=Exploring%20Digital%20Possibilities...;Building%20Practical%20Solutions;Open%20to%20Meaningful%20Collaboration" alt="Typing Animation" />
 </div>
 
 ---
-<h1 <align="center">📫 Connect with Me</h1>
+<h1 align="center">📫 Connect with Me</h1>
 <table align="center">
   <tr align="center">
     <td width="80">
@@ -404,7 +475,7 @@ A Python GUI application designed to handle daily clinic operations through stru
       </a><br><sub><b>X</b></sub>
     </td>
     <td width="80">
-      <a href="https://api.whatsapp.com/send/?phone=8801888387586&text&type=phone_number&app_absent=0" target="_blank">
+      <a href="https://api.whatsapp.com/send/?phone=8801522107196&text&type=phone_number&app_absent=0" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
       </a><br><sub><b>WhatsApp</b></sub>
     </td>
@@ -420,7 +491,7 @@ A Python GUI application designed to handle daily clinic operations through stru
 
 ### 📅 Last Updated
 <div>
-<em style="font-family: 'Courier New', monospace; font-size: 0.9em; color: #00BFFF; font-style: italic;">January 18, 2026, 11:30 PM +06</em>
+<em style="font-family: 'Courier New', monospace; font-size: 0.9em; color: #00BFFF; font-style: italic;">October 8, 2026 (UTC+6)</em>
 </div>
 
 ---
